@@ -1,9 +1,9 @@
 {
-  "name": "FoodHut",
+  "name": "promixersbars.co.za",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Website for the mobile bar",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "hellorory.co.za",
   "scripts": {
     "start": "gulp"
   },
